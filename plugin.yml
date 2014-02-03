@@ -1,0 +1,11 @@
+name: StaffInfo
+main: sigler.rebelempiremc.com.Main
+version: 1.0
+description:  Multiple Classes with a listener as well as info on staff ranks
+commands:
+  info:
+    description: Displays info about staff
+#  si:
+#    description: Displays info about staff
+#  serverinfo:
+#    description: Displays info about staff
